@@ -1,4 +1,4 @@
-<h1>Hi, I'm Camden, an <a href="https://www.linkedin.com/in/camdenhopfer/">IT Professional</a></h1>
+<h1>Hi, I'm Camden, an <a href="https://www.linkedin.com/in/camdenhopfer/">IT Technician</a></h1>
 
 <h2>Information Technology Projects:</h2>
 
