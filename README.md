@@ -7,4 +7,4 @@
   - [osTicket: Post-Installation Configuration](https://github.com/cbh75/post-install-config)
 - <b>Microsoft Azure</b>
   - [Network Security Groups and Inspecting Network Protocols](https://github.com/cbh75/azure-network-protocols)
-  - [On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/cbh75/configure-ad/)
+  - [Implementing Active Directory (On-Premises) in Azure](https://github.com/cbh75/configure-ad/)
