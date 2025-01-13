@@ -8,3 +8,4 @@
 - <b>Microsoft Azure</b>
   - [Network Security Groups and Inspecting Network Protocols](https://github.com/cbh75/azure-network-protocols)
   - [Implementing Active Directory (On-Premises) in Azure](https://github.com/cbh75/configure-ad/)
+  - [Managing User Accounts with Group Policy](https://github.com/cbh75/gpmc_managing_users/)
